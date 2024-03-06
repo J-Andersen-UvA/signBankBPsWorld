@@ -147,14 +147,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MocapProLiveLink",
-			"Enabled": true
-		},
-		{
-			"Name": "LiveLinkViconDataStream",
-			"Enabled": true
-		},
-		{
 			"Name": "MasterHttpRequest",
 			"Enabled": true
 		},
